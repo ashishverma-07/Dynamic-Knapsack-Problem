@@ -1,0 +1,4 @@
+compile:
+	make
+run:
+	./assignmentP3.out <file path>/<input file name> <output file name>
